@@ -134,3 +134,4 @@ C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\refin
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.pdb
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.genruntimeconfig.cache
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\ref\Project Q4.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.sourcelink.json

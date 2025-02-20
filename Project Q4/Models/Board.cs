@@ -12,8 +12,8 @@ namespace Project_Q4.Models
         public string BoardName { get; set; }
         public int CreatorId { get; set; }
         public User Creator { get; set; }
-        public DateTime CreatedAt { get; set; }
         public ICollection<User> BoardUsers { get; set; } = [];
         public Chat Chat { get; set; }
+        public ICollection<Task> Tasks { get; set; } = [];
     }
 }

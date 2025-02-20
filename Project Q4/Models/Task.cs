@@ -6,22 +6,6 @@ using System.Threading.Tasks;
 
 namespace Project_Q4.Models
 {
-    // Перечисление приоритетов задачи
-    public enum TaskPriority
-    {
-        Низкий,
-        Средний,
-        Высокий
-    }
-
-    // Перечисление статусов задачи
-    public enum TaskStatus
-    {
-        Свободна,
-        Выполняется,
-        Выполнена
-    }
-
     public class Task
     {
         public int Id { get; set; }
@@ -39,5 +23,19 @@ namespace Project_Q4.Models
         public User? AssignedTo { get; set; }
         public int BoardId { get; set; }
         public Board Board { get; set; }
+    }
+
+    public enum TaskPriority
+    {
+        Низкий,
+        Средний,
+        Высокий
+    }
+
+    public enum TaskStatus
+    {
+        Свободна,
+        Выполняется,
+        Выполнена
     }
 }

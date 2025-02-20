@@ -20,6 +20,8 @@ namespace Project_Q4
                        .LogTo(Console.WriteLine, LogLevel.Information));
 
             services.AddScoped<UserRepository>();
+            services.AddScoped<BoardRepository>();
+            services.AddScoped<TaskRepository>();
 
             services.AddTransient<Form1>();
 
