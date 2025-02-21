@@ -122,7 +122,6 @@ C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\runti
 C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.csproj.AssemblyReference.cache
-C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.Form1.resources
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.csproj.GenerateResource.cache
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.AssemblyInfoInputs.cache
@@ -135,3 +134,18 @@ C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Proje
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.genruntimeconfig.cache
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\ref\Project Q4.dll
 C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project Q4.sourcelink.json
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\bin\Debug\net9.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.LogInForm.resources
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.RegisterForm.resources
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.Forms.MainForm.resources
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.Forms.BoardForm.resources
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.Forms.CreateBoardForm.resources
+C:\Users\vikto\source\repos\Project Q4\Project Q4\obj\Debug\net9.0-windows\Project_Q4.Forms.ProfileForm.resources

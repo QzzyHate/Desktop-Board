@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +14,7 @@ namespace Project_Q4.Models
         public int CreatorId { get; set; }
         public User Creator { get; set; }
         public ICollection<User> BoardUsers { get; set; } = [];
-        public Chat Chat { get; set; }
+        [Required] public Chat Chat { get; set; }
         public ICollection<Task> Tasks { get; set; } = [];
     }
 }

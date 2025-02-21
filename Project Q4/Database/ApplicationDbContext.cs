@@ -22,9 +22,9 @@ public class ApplicationDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
-        modelBuilder.Entity<Board>()
-            .HasOne(b => b.Creator)
-            .WithMany()
+        modelBuilder.Entity<User>()
+            .HasMany(u => u.CreatedBoards)
+            .WithOne(b => b.Creator)
             .HasForeignKey(b => b.CreatorId)
             .OnDelete(DeleteBehavior.Restrict);
 

@@ -48,9 +48,6 @@ namespace Project_Q4.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
-
                     b.Property<int>("CreatorId")
                         .HasColumnType("int");
 
@@ -208,7 +205,7 @@ namespace Project_Q4.Migrations
             modelBuilder.Entity("Project_Q4.Models.Board", b =>
                 {
                     b.HasOne("Project_Q4.Models.User", "Creator")
-                        .WithMany()
+                        .WithMany("CreatedBoards")
                         .HasForeignKey("CreatorId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -253,7 +250,7 @@ namespace Project_Q4.Migrations
                         .HasForeignKey("AssignedToId");
 
                     b.HasOne("Project_Q4.Models.Board", "Board")
-                        .WithMany()
+                        .WithMany("Tasks")
                         .HasForeignKey("BoardId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -267,6 +264,8 @@ namespace Project_Q4.Migrations
                 {
                     b.Navigation("Chat")
                         .IsRequired();
+
+                    b.Navigation("Tasks");
                 });
 
             modelBuilder.Entity("Project_Q4.Models.Chat", b =>
@@ -277,6 +276,8 @@ namespace Project_Q4.Migrations
             modelBuilder.Entity("Project_Q4.Models.User", b =>
                 {
                     b.Navigation("AssignedTasks");
+
+                    b.Navigation("CreatedBoards");
                 });
 #pragma warning restore 612, 618
         }

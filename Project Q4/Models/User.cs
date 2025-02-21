@@ -17,7 +17,8 @@ namespace Project_Q4.Models
         public string PasswordHash { get; set; }
         public UserRole Role { get; set; }
         public bool HasSubscription { get; set; }
-        public ICollection<Board>? UserBoards { get; set; } = [];
-        public ICollection<Task>? AssignedTasks { get; set; } = []; 
+        public ICollection<Board> UserBoards { get; set; } = [];
+        public ICollection<Board> CreatedBoards { get; set; } = [];
+        public ICollection<Task> AssignedTasks { get; set; } = []; 
     }
 }

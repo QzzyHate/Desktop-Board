@@ -55,6 +55,14 @@ namespace Project_Q4.Services
             return board;
         }
 
+        public IEnumerable<Board> GetBoards(int userId)
+        {
+            return _context.Boards
+                .Include(b => b.BoardUsers)
+                .Where(b => b.CreatorId == userId || b.BoardUsers.Any(u => u.Id == userId))
+                .ToList();
+        }
+
         public void DeleteBoard(int boardId)
         {
             var board = _context.Boards.Find(boardId);

@@ -77,7 +77,7 @@ namespace Project_Q4.Services
 
         public IEnumerable<Board> GetBoards(int userId)
         {
-            return [.. _context.Boards.Where(b => b.CreatorId == userId)];
+            return [.. _context.Boards.Where(b => b.CreatorId == userId || b.BoardUsers.Any(u => u.Id == userId))];
         }
 
         private string HashPassword(string password)
