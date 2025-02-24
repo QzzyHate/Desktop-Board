@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\Project Q4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\boardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\boardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|C:\\Users\\vikto\\source\\repos\\Project Q4\\project q4\\forms\\boardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\boardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\createboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\createboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\boardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\boardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|C:\\Users\\vikto\\source\\repos\\Project Q4\\project q4\\forms\\createboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\createboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|C:\\Users\\vikto\\source\\repos\\Project Q4\\project q4\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|C:\\Users\\vikto\\source\\repos\\Project Q4\\project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|C:\\Users\\vikto\\source\\repos\\Project Q4\\project q4\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,56 +79,16 @@
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\boardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\boardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\createboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\createboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,18 +103,6 @@
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\forms\\registerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\boardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\boardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -97,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|c:\\users\\vikto\\source\\repos\\project q4\\project q4\\services\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40A3B2F-155F-45F9-873E-CEDC0DA77537}|Project Q4\\Project Q4.csproj|solutionrelative:project q4\\services\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,27 +130,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\ProfileForm.cs",
-              "RelativeDocumentMoniker": "Project Q4\\Forms\\ProfileForm.cs",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project Q4\\Forms\\ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 1,
+              "Title": "BoardForm.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\BoardForm.cs",
+              "RelativeDocumentMoniker": "Project Q4\\Forms\\BoardForm.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\BoardForm.cs",
+              "RelativeToolTip": "Project Q4\\Forms\\BoardForm.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAADwvzkBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:22:58.154Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateBoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\CreateBoardForm.cs",
-              "RelativeDocumentMoniker": "Project Q4\\Forms\\CreateBoardForm.cs",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\CreateBoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project Q4\\Forms\\CreateBoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:40:08.128Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-22T15:17:18.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -149,12 +150,59 @@
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\BoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Project Q4\\Forms\\BoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:39:21.442Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-21T09:39:21.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "CreateBoardForm.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\CreateBoardForm.cs",
+              "RelativeDocumentMoniker": "Project Q4\\Forms\\CreateBoardForm.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\CreateBoardForm.cs",
+              "RelativeToolTip": "Project Q4\\Forms\\CreateBoardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:17:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateBoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\CreateBoardForm.cs",
+              "RelativeDocumentMoniker": "Project Q4\\Forms\\CreateBoardForm.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\CreateBoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project Q4\\Forms\\CreateBoardForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:40:08.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Project Q4\\Forms\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\ProfileForm.cs",
+              "RelativeToolTip": "Project Q4\\Forms\\ProfileForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:28:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Project Q4\\Forms\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project Q4\\Forms\\ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:22:58.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\MainForm.Designer.cs",
@@ -162,37 +210,35 @@
               "RelativeToolTip": "Project Q4\\Forms\\MainForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T08:23:48.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T08:23:48.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\MainForm.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\MainForm.cs",
               "RelativeToolTip": "Project Q4\\Forms\\MainForm.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAYwIkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAYwJ8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T07:34:32.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project Q4\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Project Q4\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:34:30.379Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-21T07:34:30.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "LogInForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\LogInForm.Designer.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\LogInForm.Designer.cs",
@@ -200,12 +246,11 @@
               "RelativeToolTip": "Project Q4\\Forms\\LogInForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T06:10:05.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T06:10:05.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "LogInForm.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\LogInForm.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\LogInForm.cs",
@@ -218,19 +263,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": "LogInForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\LogInForm.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\LogInForm.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\LogInForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Project Q4\\Forms\\LogInForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:19:35.335Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-21T07:19:35.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "MessageRepository.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\MessageRepository.cs",
               "RelativeDocumentMoniker": "Project Q4\\Services\\MessageRepository.cs",
@@ -242,44 +286,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 2,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\TaskRepository.cs",
               "RelativeDocumentMoniker": "Project Q4\\Services\\TaskRepository.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\TaskRepository.cs",
               "RelativeToolTip": "Project Q4\\Services\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:35:22.402Z"
+              "WhenOpened": "2025-02-20T14:35:22.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "BoardRepository.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\BoardRepository.cs",
               "RelativeDocumentMoniker": "Project Q4\\Services\\BoardRepository.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\BoardRepository.cs",
               "RelativeToolTip": "Project Q4\\Services\\BoardRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwDwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:51:18.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:51:18.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\UserRepository.cs",
               "RelativeDocumentMoniker": "Project Q4\\Services\\UserRepository.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\UserRepository.cs",
               "RelativeToolTip": "Project Q4\\Services\\UserRepository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwFQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T09:46:21.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 10,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Services\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Project Q4\\Services\\BaseRepository.cs",
@@ -291,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Project Q4\\Database\\ApplicationDbContext.cs",
@@ -299,12 +343,11 @@
               "RelativeToolTip": "Project Q4\\Database\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA8wCEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:17:58.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T13:17:58.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Project Q4\\Models\\Message.cs",
@@ -316,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Models\\Chat.cs",
               "RelativeDocumentMoniker": "Project Q4\\Models\\Chat.cs",
@@ -328,20 +371,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Project Q4\\Models\\Task.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Models\\Task.cs",
               "RelativeToolTip": "Project Q4\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T12:27:52.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Models\\Board.cs",
               "RelativeDocumentMoniker": "Project Q4\\Models\\Board.cs",
@@ -349,12 +392,11 @@
               "RelativeToolTip": "Project Q4\\Models\\Board.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T12:16:36.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T12:16:36.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Models\\User.cs",
               "RelativeDocumentMoniker": "Project Q4\\Models\\User.cs",
@@ -362,37 +404,34 @@
               "RelativeToolTip": "Project Q4\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T12:05:42.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T12:05:42.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Program.cs",
               "RelativeDocumentMoniker": "Project Q4\\Program.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Program.cs",
               "RelativeToolTip": "Project Q4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T12:03:46.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T12:03:46.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "RegisterForm.resx",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\RegisterForm.resx",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\RegisterForm.resx",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\RegisterForm.resx",
               "RelativeToolTip": "Project Q4\\Forms\\RegisterForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-02-19T11:12:54.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T11:12:54.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "RegisterForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\RegisterForm.Designer.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\RegisterForm.Designer.cs",
@@ -400,12 +439,11 @@
               "RelativeToolTip": "Project Q4\\Forms\\RegisterForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T12:03:20.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T12:03:20.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\RegisterForm.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\RegisterForm.cs",
@@ -418,15 +456,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\RegisterForm.cs",
               "RelativeDocumentMoniker": "Project Q4\\Forms\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Project Q4\\Project Q4\\Forms\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Project Q4\\Forms\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:42:04.752Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-19T13:42:04.752Z"
             }
           ]
         }

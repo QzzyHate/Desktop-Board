@@ -41,6 +41,7 @@ namespace Project_Q4.Forms
                 return;
             }
 
+            //Приветствие пользователя
             var welcomeLabel = new Label
             {
                 Text = $"Welcome, {_currentUser.UserName}",
@@ -50,6 +51,7 @@ namespace Project_Q4.Forms
             };
             this.Controls.Add(welcomeLabel);
 
+            //Кнопка профиля
             var profileButton = new Button
             {
                 Text = "Profile",
@@ -59,6 +61,7 @@ namespace Project_Q4.Forms
             profileButton.Click += ProfileButton_Click;
             this.Controls.Add(profileButton);
 
+            //Кнопка выхода
             var logoutButton = new Button
             {
                 Text = "Logout",
@@ -68,16 +71,20 @@ namespace Project_Q4.Forms
             logoutButton.Click += LogoutButton_Click;
             this.Controls.Add(logoutButton);
 
+            //Список досок
             var boardsPanel = new FlowLayoutPanel
             {
+                Name = "boardsPanel",
                 Location = new Point(10, 50),
                 Size = new Size(this.ClientSize.Width - 20, this.ClientSize.Height - 150),
                 AutoScroll = true,
                 FlowDirection = FlowDirection.TopDown
             };
-            LoadBoards(boardsPanel);
             this.Controls.Add(boardsPanel);
 
+            LoadBoards(boardsPanel);
+
+            //Кнопка создания новой доски (только для руководителей)
             if (_currentUser.Role == UserRole.Руководитель)
             {
                 var createBoardButton = new Button
@@ -93,6 +100,12 @@ namespace Project_Q4.Forms
 
         private void LoadBoards(FlowLayoutPanel boardsPanel)
         {
+            if (boardsPanel == null)
+            {
+                MessageBox.Show("Error: Boards panel not found.");
+                return;
+            }
+
             if (_currentUser == null)
             {
                 MessageBox.Show("User data is not available.");
@@ -100,6 +113,8 @@ namespace Project_Q4.Forms
             }
 
             var boards = _boardRepository.GetBoards(_currentUser.Id);
+            boardsPanel.Controls.Clear(); //Очистите старые кнопки
+
             if (!boards.Any())
             {
                 var noBoardsLabel = new Label
@@ -136,7 +151,7 @@ namespace Project_Q4.Forms
         private void ProfileButton_Click(object sender, EventArgs e)
         {
             var profileForm = _serviceProvider.GetRequiredService<ProfileForm>();
-            //profileForm.SetCurrentUser(_currentUser);
+            profileForm.SetCurrentUser(_currentUser);
             profileForm.Show();
             this.Hide();
         }
@@ -147,7 +162,8 @@ namespace Project_Q4.Forms
             if (button?.Tag is int boardId)
             {
                 var boardForm = _serviceProvider.GetRequiredService<BoardForm>();
-                //boardForm.SetBoardId(boardId);
+                boardForm.SetCurrentUser(_currentUser);
+                boardForm.SetBoardId(boardId);
                 boardForm.Show();
                 this.Hide();
             }
@@ -156,8 +172,8 @@ namespace Project_Q4.Forms
         private void CreateBoardButton_Click(object sender, EventArgs e)
         {
             var createBoardForm = _serviceProvider.GetRequiredService<CreateBoardForm>();
-            //createBoardForm.SetUserId(_currentUser.Id);
-            //createBoardForm.BoardCreated += (s, args) =>
+            createBoardForm.SetCurrentUser(_currentUser); //Передаем полный объект пользователя
+            createBoardForm.BoardCreated += (s, args) =>
             {
                 var boardsPanel = this.Controls.Find("boardsPanel", true).FirstOrDefault() as FlowLayoutPanel;
                 LoadBoards(boardsPanel);

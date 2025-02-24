@@ -35,8 +35,7 @@ namespace Project_Q4.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     BoardName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    CreatorId = table.Column<int>(type: "int", nullable: false),
-                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    CreatorId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
